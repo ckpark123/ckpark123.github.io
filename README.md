@@ -1,4 +1,4 @@
-ckpark123.github.io
+chriskpark.com
 ===================
 
 Public Site
